@@ -20,6 +20,7 @@ namespace BinTest
             this.ShowIcon = false;
             this.CenterToScreen();
             button2.Visible = false;
+            button3.Visible = false;
             panel1.Visible = false;
             //FileStream fs = new FileStream("seznam.dat", FileMode.Truncate, FileAccess.Write);
         }
@@ -95,8 +96,10 @@ namespace BinTest
 
                 Zapis(s +jmeno);
                 button2.Visible = false;
+                button3.Visible = true;
                 znamky = "";
-            }                        
+            }
+           
         }
 
         void Zapis(string s)
