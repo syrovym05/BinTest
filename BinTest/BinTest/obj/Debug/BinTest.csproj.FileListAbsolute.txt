@@ -12,7 +12,6 @@ C:\Users\marsy\Source\Repos\BinTest\BinTest\BinTest\bin\Debug\BinTest.exe.config
 C:\Users\marsy\Source\Repos\BinTest\BinTest\BinTest\bin\Debug\BinTest.exe
 C:\Users\marsy\Source\Repos\BinTest\BinTest\BinTest\bin\Debug\BinTest.pdb
 C:\Users\marsy\Source\Repos\BinTest\BinTest\BinTest\obj\Debug\BinTest.csproj.AssemblyReference.cache
-C:\Users\marsy\Source\Repos\BinTest\BinTest\BinTest\obj\Debug\BinTest.csproj.SuggestedBindingRedirects.cache
 C:\Users\marsy\Source\Repos\BinTest\BinTest\BinTest\obj\Debug\BinTest.Form1.resources
 C:\Users\marsy\Source\Repos\BinTest\BinTest\BinTest\obj\Debug\BinTest.Properties.Resources.resources
 C:\Users\marsy\Source\Repos\BinTest\BinTest\BinTest\obj\Debug\BinTest.csproj.GenerateResource.cache

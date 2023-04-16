@@ -70,7 +70,7 @@
             this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(150)))), ((int)(((byte)(133)))));
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button1.Location = new System.Drawing.Point(172, 60);
+            this.button1.Location = new System.Drawing.Point(164, 60);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(146, 27);
             this.button1.TabIndex = 2;
@@ -81,7 +81,7 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Location = new System.Drawing.Point(52, 63);
+            this.numericUpDown1.Location = new System.Drawing.Point(44, 63);
             this.numericUpDown1.Minimum = new decimal(new int[] {
             1,
             0,
@@ -89,7 +89,7 @@
             0});
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(88, 20);
-            this.numericUpDown1.TabIndex = 3;
+            this.numericUpDown1.TabIndex = 0;
             this.numericUpDown1.Value = new decimal(new int[] {
             1,
             0,
@@ -111,7 +111,7 @@
             0});
             this.numericUpDown2.Name = "numericUpDown2";
             this.numericUpDown2.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown2.TabIndex = 4;
+            this.numericUpDown2.TabIndex = 3;
             this.numericUpDown2.Value = new decimal(new int[] {
             1,
             0,
@@ -133,7 +133,7 @@
             0});
             this.numericUpDown3.Name = "numericUpDown3";
             this.numericUpDown3.Size = new System.Drawing.Size(120, 20);
-            this.numericUpDown3.TabIndex = 5;
+            this.numericUpDown3.TabIndex = 4;
             this.numericUpDown3.Value = new decimal(new int[] {
             1,
             0,
@@ -144,7 +144,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label1.Location = new System.Drawing.Point(49, 43);
+            this.label1.Location = new System.Drawing.Point(41, 43);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(93, 17);
             this.label1.TabIndex = 6;
@@ -195,7 +195,7 @@
             this.textBox2.Location = new System.Drawing.Point(146, 36);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(120, 20);
-            this.textBox2.TabIndex = 13;
+            this.textBox2.TabIndex = 2;
             // 
             // button2
             // 
@@ -207,7 +207,7 @@
             this.button2.Location = new System.Drawing.Point(77, 125);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(129, 27);
-            this.button2.TabIndex = 14;
+            this.button2.TabIndex = 5;
             this.button2.TabStop = false;
             this.button2.Text = "Zadat ";
             this.button2.UseVisualStyleBackColor = false;
@@ -220,7 +220,7 @@
             this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(150)))), ((int)(((byte)(133)))));
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button3.Location = new System.Drawing.Point(897, 294);
+            this.button3.Location = new System.Drawing.Point(841, 291);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(128, 27);
             this.button3.TabIndex = 17;
@@ -232,7 +232,7 @@
             // textBox3
             // 
             this.textBox3.BackColor = System.Drawing.Color.White;
-            this.textBox3.Location = new System.Drawing.Point(425, 63);
+            this.textBox3.Location = new System.Drawing.Point(369, 60);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
@@ -243,7 +243,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label6.Location = new System.Drawing.Point(460, 43);
+            this.label6.Location = new System.Drawing.Point(404, 40);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(48, 17);
             this.label6.TabIndex = 19;
@@ -253,7 +253,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label7.Location = new System.Drawing.Point(606, 43);
+            this.label7.Location = new System.Drawing.Point(550, 40);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(57, 17);
             this.label7.TabIndex = 20;
@@ -262,7 +262,7 @@
             // listBox2
             // 
             this.listBox2.FormattingEnabled = true;
-            this.listBox2.Location = new System.Drawing.Point(828, 63);
+            this.listBox2.Location = new System.Drawing.Point(772, 60);
             this.listBox2.Name = "listBox2";
             this.listBox2.Size = new System.Drawing.Size(197, 225);
             this.listBox2.TabIndex = 21;
@@ -271,7 +271,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label9.Location = new System.Drawing.Point(869, 43);
+            this.label9.Location = new System.Drawing.Point(813, 40);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(112, 17);
             this.label9.TabIndex = 23;
@@ -288,7 +288,7 @@
             this.panel1.Controls.Add(this.label5);
             this.panel1.Controls.Add(this.label4);
             this.panel1.Controls.Add(this.textBox2);
-            this.panel1.Location = new System.Drawing.Point(34, 112);
+            this.panel1.Location = new System.Drawing.Point(26, 112);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(300, 176);
             this.panel1.TabIndex = 24;
@@ -296,7 +296,7 @@
             // listBox3
             // 
             this.listBox3.FormattingEnabled = true;
-            this.listBox3.Location = new System.Drawing.Point(738, 63);
+            this.listBox3.Location = new System.Drawing.Point(682, 60);
             this.listBox3.Name = "listBox3";
             this.listBox3.Size = new System.Drawing.Size(59, 225);
             this.listBox3.TabIndex = 25;
@@ -305,7 +305,7 @@
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label10.Location = new System.Drawing.Point(740, 43);
+            this.label10.Location = new System.Drawing.Point(684, 40);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(53, 17);
             this.label10.TabIndex = 26;
@@ -314,7 +314,7 @@
             // listBox4
             // 
             this.listBox4.FormattingEnabled = true;
-            this.listBox4.Location = new System.Drawing.Point(553, 63);
+            this.listBox4.Location = new System.Drawing.Point(497, 60);
             this.listBox4.Name = "listBox4";
             this.listBox4.Size = new System.Drawing.Size(179, 225);
             this.listBox4.TabIndex = 27;
@@ -324,7 +324,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MediumSeaGreen;
-            this.ClientSize = new System.Drawing.Size(1061, 350);
+            this.ClientSize = new System.Drawing.Size(1009, 341);
             this.Controls.Add(this.listBox4);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.listBox3);
@@ -338,6 +338,10 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.button1);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(1025, 380);
+            this.MinimizeBox = false;
+            this.MinimumSize = new System.Drawing.Size(1025, 380);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
